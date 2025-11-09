@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="app/assets/images/LOGO1.png" alt="AEGISMIND Logo" width="140"/>
+<!-- Banner (Cyberpunk / Dark Mode Minimalistic GIF/Image) -->
+<img src="app/assets/images/Black and White Modern Streetwear Sport Logo.gif" alt="AEGISMIND Logo" width="750"/>
+
+<!-- Main Logo -->
+<img src="app/assets/images/image.png"  width="140"/>
+<div align="center">
+
 
 # 🧠 AEGISMIND  
 ### Advanced Deepfake Detection System (v2.0)  
 **“Detect the unreal — Protect the real.”**
 
----
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ResNeXt-orange)
@@ -17,25 +22,21 @@
 
 </div>
 
----
-
 ## 🚀 Overview
 AEGISMIND is a next-generation **Deepfake Detection Platform** capable of analyzing  
 images, videos, and real-time webcam streams using a hybrid **ResNeXt-LSTM** architecture.
 
----
 
 ## ✨ Key Features
 
 - 🔍 Multi-modal detection (images, videos, webcam)
 - 🧩 Spatial + frequency domain fusion
-- ⚡ Real-time frame-by-frame analysis
+- ⚡ Real-time frame analysis
 - 🧠 GradCAM explainability
-- 🛡️ SHA256 file integrity verification
-- 📊 Confidence-based scoring
+- 🛡️ SHA256 integrity verification
+- 📊 Confidence scoring
 - 🧰 Error handling for corrupted or oversized files
 
----
 
 ## 🧠 Architecture
 
@@ -50,7 +51,6 @@ Sigmoid Classifier (Real/Fake)
 yaml
 Copy code
 
----
 
 ## 🗂️ Project Structure
 
@@ -89,37 +89,32 @@ AEGISMIND/
 yaml
 Copy code
 
----
-
 ## 📦 Installation
 
-### 1. Install dependencies
+### 1. Install Dependencies
 pip install -r requirements.txt
 
 shell
 Copy code
 
-### 2. Launch Streamlit app
+### 2. Launch Streamlit App
 streamlit run app/streamlit_app_new.py
 
 yaml
 Copy code
 
----
 
 ## 🎛️ Usage Guide
 
-### ✅ Select Mode
-- 🖼️ Image Upload  
-- 🎞️ Video Upload  
-- 🎥 Webcam Mode  
+- ✅ Image Upload  
+- ✅ Video Upload  
+- ✅ Webcam Mode  
 
-### ✅ Outputs Provided
+### Output Includes:
 - Real/Fake classification  
 - Confidence score  
-- GradCAM heatmap visualization  
+- GradCAM heatmap  
 
----
 
 ## 🎓 Dataset Sources
 
@@ -130,7 +125,6 @@ Copy code
 | FaceForensics++ | Video/Image | Standard research dataset |
 | DFDC Preview | Image/Video | Lightweight version |
 
----
 
 ## 🏋️ Training Commands
 
@@ -152,16 +146,12 @@ python optimal_threshold.py
 yaml
 Copy code
 
----
-
 ## 🔐 Security
 
-- ✅ SHA256 integrity verification  
-- ✅ No permanent storage of uploaded files  
-- ⚠️ Webcam access requires user consent  
-- ⚠️ Add disclaimers for false positives/negatives  
-
----
+- ✅ SHA256 integrity check  
+- ✅ No permanent file storage  
+- ⚠️ Webcam consent required  
+- ⚠️ May give false positives/negatives  
 
 ## 📈 Project Status
 
@@ -173,16 +163,14 @@ Copy code
 | Security | 70% | Needs UI consent |
 | **Overall** | **85%** | ✅ Ready |
 
----
 
 ## ❤️ Credits
 
-**Developer:** Satya Bhargav  
+**Developer:** SATYA BHARGAV  
 **Alias:** Grey Hatter  
 
 *“They said it couldn’t be done — we proved otherwise.”*
 
----
 
 ## 📜 License
 
