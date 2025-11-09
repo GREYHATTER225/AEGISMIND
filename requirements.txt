@@ -1,0 +1,15 @@
+torch==2.5.1
+torchvision==0.20.1
+opencv-python
+numpy
+matplotlib
+streamlit
+grad-cam
+ffmpeg-python
+tqdm
+Pillow
+transformers
+shap
+plotly
+streamlit-extras
+librosa

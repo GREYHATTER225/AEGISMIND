@@ -1,0 +1,16 @@
+/* Sidebar */
+.css-1d391kg {background-color: #111; color: #fff;}
+.css-1aumxhk {padding: 1rem;}
+
+/* File uploader */
+.stFileUploader > div {border: 2px dashed #444; border-radius: 8px; padding: 1rem;}
+.stFileUploader:hover {border-color: #00ffe5;}
+
+/* Headers */
+h1, h2, h3 {color: #fff;}
+
+/* Main area background */
+.reportview-container .main {background-color: #1a1a1a; color: #fff;}
+
+/* Cards */
+.card {background-color: #222; border-radius: 12px; padding: 1rem; margin-bottom: 1rem;}
