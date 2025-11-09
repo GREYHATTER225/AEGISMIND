@@ -1,12 +1,12 @@
 <div align="center">
 
+<!-- Banner (Cyberpunk / Dark Mode Minimalistic GIF/Image) -->
+<img src="app/assets/images/Black and White Modern Streetwear Sport Logo.gif" alt="AEGISMIND Logo" width="750"/>
 
-<img src="app\assets\images\Black and White Modern Streetwear Sport Logo.gif" width="500"/>
+<!-- Main Logo -->
+<img src="app/assets/images/image.png"  width="140"/>
+<div align="center">
 
-
-<img src="app/assets/images/LOGO1.png" alt="AEGISMIND Logo" width="140"/>
-
-</P>
 
 # 🧠 AEGISMIND  
 ### Advanced Deepfake Detection System (v2.0)  
