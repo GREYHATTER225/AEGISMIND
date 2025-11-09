@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="app/assets/images/Black-and-White-Modern-Streetwear-Sport-Logo.gif" width="750"/>
+<img src="\app\assets\images\Black and White Modern Streetwear Sport Logo.gif" width="750"/>
 
 <br/>
 
