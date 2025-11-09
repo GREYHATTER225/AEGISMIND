@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Banner (Cyberpunk / Dark Mode Minimalistic GIF/Image) -->
-<img src="app/assets/images/Black and White Modern Streetwear Sport Logo.gif" alt="AEGISMIND Logo" width="750"/>
+<!-- Banner -->
+<img src="app/assets/images/Black-and-White-Modern-Streetwear-Sport-Logo.gif" width="750"/>
+
+<br/>
 
 <!-- Main Logo -->
-<img src="app/assets/images/image.png"  width="140"/>
-<div align="center">
+<img src="app/assets/images/image.png" width="140"/>
+
+</div>
+
 
 
 # 🧠 AEGISMIND  
@@ -59,42 +63,7 @@ Copy code
 ---
 
 ## 🗂️ Project Structure
-
-AEGISMIND/
-│
-├── app/
-│ ├── streamlit_app_new.py
-│ └── assets/images/
-│
-├── models/
-│ ├── resnext_lstm.py
-│ ├── gradcam_utils.py
-│ ├── image_classifier.py
-│ └── pretrained/
-│
-├── datasets/
-│ └── image_dataset.py
-│
-├── utils/
-│ └── preprocessing.py
-│
-├── realtime/
-│
-├── weights/
-│
-├── train_image_classifier.py
-├── train_classifier.py
-├── inference_corrected.py
-├── eval.py
-├── extract_frames.py
-├── model_audit.py
-├── optimal_threshold.py
-├── requirements.txt
-└── README.md
-
-yaml
-Copy code
-
+INSIDE THE CODE >><<>>>
 ---
 
 ## 📦 Installation
